@@ -4,7 +4,7 @@
 
 ## Python
 
-- [Class and Instance](https://github.com/seunghyunshin111/Algorithms/tree/master/Class\ and\ Instance)
+- 
 
 - [Crawling](https://github.com/seunghyunshin111/Algorithms/tree/master/Crawling)
 
