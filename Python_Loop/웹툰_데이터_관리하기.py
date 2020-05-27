@@ -34,15 +34,7 @@ for title, author, rating in zip(title_tag, author_tag, rating_tag):
 
 data_list
 
-"""과제1. author가 전체보기로 되어있는 데이터는 webtoon_list에서 모두 삭제해주세요.
-
-과제2. rating이 9.9 이상인 웹툰의 제목 따로 recommended 변수에 담아주세요.
-
-과제3(추가과제). rating이 제일 높은 데이터 3개만 top_recommended에 담아주세요.
-"""
-
 # author가 전체보기로 되어있는 데이터는 webtoon_list에서 모두 삭제해주세요.
-
 All = [item for item in data_list if item['author'] != '전체보기']
 All
 
@@ -50,19 +42,15 @@ All
 
 # recommended = [item['title'] for item in data_list if item['rating'] >= '9.9']
 # recommended
-
 recommended = [item['title'] for item in data_list if float(item['rating']) >= 9.9]
 recommended
 
 # rating이 제일 높은 데이터 3개만 top_recommended에 담아주세요.
-
 top_trecommended = [item for item in data_list if float(item['rating']) >= 9.98]
 top_trecommended
 
 # 시도했으나 안 된 코드
-
 # top_trecommended = [item for item in data_list if [float(item['rating'])].head(3)]
 # top_trecommended
-
 # top_trecommended = [item for item in data_list if float(item['rating']) == (float(item['rating'])).head(3)]
 # top_trecommended
