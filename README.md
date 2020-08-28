@@ -2,23 +2,23 @@
 
 ## Python
 
-[Class & Instance](https://github.com/seunghyunshin111/Algorithms/tree/master/Python/Class %26 Instance)
+[Class_Instance](https://github.com/seunghyunshin111/Algorithms/tree/master/Python/Class_Instance)
 
 [Crawling](https://github.com/seunghyunshin111/Algorithms/tree/master/Python/Crawling)
 
 [Datastructure](https://github.com/seunghyunshin111/Algorithms/tree/master/Python/Datastructure)
 
-[Function & Method](https://github.com/seunghyunshin111/Algorithms/tree/master/Python/Function %26 Method)
+[Function_Method](https://github.com/seunghyunshin111/Algorithms/tree/master/Python/Function_Method)
 
 [Logic](https://github.com/seunghyunshin111/Algorithms/tree/master/Python/Logic)
 
 [Loop](https://github.com/seunghyunshin111/Algorithms/tree/master/Python/Loop)
 
-[Pandas & Numpy](https://github.com/seunghyunshin111/Algorithms/tree/master/Python/Pandas %26 Numpy)
-
-
+[Pandas_Numpy](https://github.com/seunghyunshin111/Algorithms/tree/master/Python/Pandas_Numpy)
 
 
 
 ## SQL
+
+<br>
 
