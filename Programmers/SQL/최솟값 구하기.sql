@@ -1,2 +1,2 @@
-SELECT max(datetime)
+SELECT min(datetime)
 from animal_ins
