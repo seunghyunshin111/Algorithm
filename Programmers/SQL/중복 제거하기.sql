@@ -1,2 +1,2 @@
-SELECT count(animal_type)
+SELECT count(distinct(name))
 from animal_ins
